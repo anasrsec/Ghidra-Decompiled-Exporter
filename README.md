@@ -58,11 +58,3 @@ Put `ghidra_export_decompiled.py` in one of these locations:
 
 - **Ghidra** (tested on 12.x.x)
 - **Python** (Jython) — built into Ghidra, no extra install needed
-
-## License
-
-MIT
-
-## Contributing
-
-Issues and PRs welcome. If you hit a binary format where the categorization could be smarter, open an issue with a sample function listing.
